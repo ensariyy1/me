@@ -1,6 +1,5 @@
-Ky eshte prezantimi i pare 
-ne kete prezantim behet fjal per vetem time
-
+Biografia ime e pare 
+_------
 
 
 
